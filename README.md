@@ -9,7 +9,7 @@ Người dùng có thể tìm kiếm phòng, đặt phòng, check-in online và 
 ---
 
 ## 🎥 Demo Video
-👉 [Xem video demo tại đây]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://drive.google.com/file/d/1w3Zd8ozCZBlTPoGJimpV_KGEw7yGOpPP/view?usp=sharing))
+👉 [Xem video demo tại đây](https://drive.google.com/file/d/1w3Zd8ozCZBlTPoGJimpV_KGEw7yGOpPP/view?usp=sharing)
 
 ---
 
